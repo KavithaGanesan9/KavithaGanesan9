@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @KavithaGanesan9
-- 👀 I’m interested in 
-- 🌱 I’m currently learning DS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+-Futhure DATA SCIENTIST
 
 <!---
 KavithaGanesan9/KavithaGanesan9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
